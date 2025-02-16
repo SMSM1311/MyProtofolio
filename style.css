@@ -1,0 +1,101 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 70px 0 0; /* Adjust padding to accommodate the navbar */
+}
+
+header {
+    background-color: #fff;
+}
+
+.main-section {
+    color: #fff;
+    text-align: center;
+}
+
+.main-section h2 {
+    font-size: 2.5em;
+}
+
+.main-section p {
+    font-size: 1.2em;
+    margin: 20px 0;
+}
+
+.main-section .btn {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.social-icons {
+    margin-top: 20px;
+}
+
+.social-icons a {
+    margin: 0 10px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
+.skills .skill-box {
+    transition: transform 0.7s ease-in-out;
+    margin-top: 20px;
+}
+
+.skills .skill-box:hover {
+    transform: scale(1.1);
+}
+
+.skills .skill-box {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.skills .skill-box i {
+    font-size: 2em;
+    color: #007bff;
+}
+
+.skills .skill-box h3 {
+    margin: 15px 0 10px;
+    color: #007bff;
+}
+
+.skills .skill-box p {
+    color: #555;
+}
+
+.projects h2 {
+    color: #007bff;
+}
+
+.project-box {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.project-box h3 {
+    color: #007bff;
+}
+
+.project-box p {
+    color: #555;
+}
+
+.project-box .btn {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 10px;
+}
